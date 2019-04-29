@@ -1,0 +1,2 @@
+webpackJsonp([32],{CgLR:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("Fabric")])},staticRenderFns:[]};var i=n("C7Lr")({},r,!1,function(e){n("QETx")},"data-v-1b042e50",null);t.default=i.exports},QETx:function(e,t){}});
+//# sourceMappingURL=32.14efbe6f29caa67140e3.js.map
